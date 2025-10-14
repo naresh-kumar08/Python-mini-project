@@ -1,2 +1,2 @@
 # Python-mini-project
-some mini project are uplord 
+<p>The python beginer project are uplord</p>
